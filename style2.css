@@ -1,0 +1,25 @@
+.centered {
+	font-family: Helvetica;
+	font-size: 20px;
+	text-align: center;
+}
+body {
+	background: url("https://i.imgur.com/FvlXFu5.jpg");
+}
+#back {
+	margin: 350px 0 0 79px;
+	padding: 15px 50px;
+	position: fixed;
+	font-size: 40px;
+}
+#create {
+	margin: 209px 0 0 79px;
+	padding: 15px 30px;
+	position: fixed;
+	font-size: 40px;
+}
+form {
+	font-family: Helvetica;
+	font-size: 30px;
+	color: white;
+}
